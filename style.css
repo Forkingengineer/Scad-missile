@@ -10,7 +10,7 @@ html{
 }
 
 body {
-    background-color:#FFFFFF;
+    background-color:#808080;
     font-family: 'Montserrat', Arial, sans-serif;
     margin: 0px;
 }
@@ -101,8 +101,8 @@ body {
     text-align: center;
 }
 
-.#000000{
-    background-color: #000000;
+.#808080{
+    background-color: #808080;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
