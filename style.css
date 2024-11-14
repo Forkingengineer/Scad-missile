@@ -664,12 +664,12 @@ footer{
 
     .toggle{
         display: block;
-        background-color: #FFFFFF;
+        background-color: #000000;
         border: 1px solid #fd81bb4d;
     }
     
     .toggle:hover{
-        background-color: #FFFFFF;
+        background-color: #000000;
     }
     
     #drop:checked+.main-nav{
