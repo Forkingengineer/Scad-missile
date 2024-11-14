@@ -10,7 +10,7 @@ html{
 }
 
 body {
-    background-color:#023020;
+    background-color:#000000;
     font-family: 'Montserrat', Arial, sans-serif;
     margin: 0px;
 }
@@ -94,15 +94,15 @@ body {
 }
 
 /* Background colors */
-.#023020{
+.#000000{
     background-color: rgba(0, 100, 0, 0.3);
     margin: 20px auto;
     padding: 20px;
     text-align: center;
 }
 
-.#023020{
-    background-color: #023020;
+.#000000{
+    background-color: #000000;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
