@@ -94,15 +94,15 @@ body {
 }
 
 /* Background colors */
-.#000000{
-    background-color: rgba(0, 100, 0, 0.3);
+.#808080{
+    background-color: 808080;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
 }
 
 .#808080{
-    background-color: #808080;
+    background-color: 808080;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
@@ -277,7 +277,7 @@ nav {
 }
 
 .main-nav{
-    background-color: rgb(253, 249, 249);
+    background-color: 008080;
     display: flex;
     list-style-type: none;
     justify-content: center;
@@ -295,7 +295,7 @@ nav {
 }
 
 .main-nav li a:hover {
-    color: rgb(254, 175, 210);
+    color: 0008080;
     text-decoration: none;
     font-weight: bold;
 }
@@ -313,7 +313,7 @@ nav {
 }
 
 #main-toggle{
-    border: 1px solid #df36854d;
+    border: 1px solid FFFFFF;
     float: right;
     padding: 20px;
     /* position: relative; */
@@ -330,7 +330,7 @@ nav {
 
 .nav-icon::before,
 .nav-icon::after{
-    background-color: #df36854d;
+    background-color: #008080;
     content: "";
     display: block;
     height: 100%;
