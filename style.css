@@ -669,7 +669,7 @@ footer{
     }
     
     .toggle:hover{
-        background-color: #000000;
+        background-color: #FFFFFF;
     }
     
     #drop:checked+.main-nav{
