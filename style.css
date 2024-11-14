@@ -10,7 +10,7 @@ html{
 }
 
 body {
-    background-color:#000000;
+    background-color:#FFFFFF;
     font-family: 'Montserrat', Arial, sans-serif;
     margin: 0px;
 }
@@ -290,7 +290,7 @@ nav {
 }
 
 .main-nav li a {
-    color: #000000;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
